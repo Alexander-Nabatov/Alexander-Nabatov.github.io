@@ -5,15 +5,16 @@
 
 
 body {
-    /* background-image: url(/images/m-fone.png); */
+    background-image: url(/images/m-fone.png);
     background-repeat: no-repeat;
-    background-size:110%;
+    background-size:100%;
+    background-attachment: fixed;
     
     
 }
 
 main {
-    background-color: #e0d2cd;
+    /* background-color: #e0d2cd; */
 }
 
 @media (max-width: 1259px ) {
